@@ -1,8 +1,3 @@
-## Project Info
-- Vite 7
-- Vue 3.5
-- TypeScript
-- pnpm
 
 ## Git 仓库管理和开发流程指南
 
