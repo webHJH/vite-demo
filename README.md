@@ -10,7 +10,7 @@ node_modules
 dist
 dist-ssr
 coverage
-*.localß
+*.local
 
 # Editor directories and files
 .vscode/*
